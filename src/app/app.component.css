@@ -1,0 +1,50 @@
+.input-icons i {
+    position: absolute;
+    color: gray;
+}
+
+.my_text
+{
+    font-family: "Lucida Console", Courier, monospace;
+    font-size:      30px;
+    font-weight:    bold;
+}
+
+.input-icons {
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+
+.input-field {
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    width: 40%;
+    padding: 10px;
+    text-indent:40px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.button-custom{
+   border: 1px solid #ddd;
+   background-color: #f0f0f0;
+   padding: 6px 18px;
+   font-size: 15px;
+  -o-transition: background-color .2s ease-in;
+	-moz-transition: background-color .2s ease-in;
+	-webkit-transition: background-color .2s ease-in;
+	transition: background-color .2s ease-in;
+}
+
+.button-custom:hover {
+    background-color: #e5e5e5;
+}
+
+.button-custom:active {
+    background-color: #ccc;
+}
