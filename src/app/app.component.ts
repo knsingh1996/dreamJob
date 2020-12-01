@@ -28,7 +28,7 @@ export class AppComponent implements OnInit {
   public doughnutChartType: string = 'doughnut';
 
 //  constructor(private db: AngularFireDatabase){}
-  root_url = 'https://work-search-3dd70.firebaseio.com/';
+  root_url = 'https://REDACTED.firebaseio.com/';
 
   constructor(private http: HttpClient) {}
 
