@@ -2,7 +2,7 @@ import json
 import sys
 import requests
 
-url = 'https://work-search-3dd70.firebaseio.com/'
+url = 'REDACTED'
 
 #load in data 
 tfidf = []
